@@ -25,7 +25,7 @@ At the moment I am working in [vohcolab](www.vohcolab.org) as a Research Enginee
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>  
  </div>
   
-                                        
+  <hr/>                                          
  
                                         
 📊 **this past week i spent my time on:**
@@ -41,6 +41,7 @@ YAML     4 mins          ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
                                         
                                         
-                                        </hr>                                       
+<hr/>    
+                                        
 - 💼 any freelance work or inquiries? do reach, [email](mailto:msd.cardoso@hotmail.com) :)
 - 💬 ask me about anything, i am happy to help;
