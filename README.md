@@ -32,11 +32,11 @@ At the moment I am working in [vohcolab](www.vohcolab.org) as a Research Enginee
                                         
 <!--START_SECTION:waka-->
 ```text
-Python   22 hrs 6 mins   █████████████████████░░░░   84.42 % 
-TeX      3 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Other    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-HTML     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-YAML     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Python     25 hrs 30 mins  ████████████████████▓░░░░   83.27 % 
+TeX        3 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+HTML       26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Other      21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Markdown   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 <!--END_SECTION:waka-->
                                         
