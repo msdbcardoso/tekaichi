@@ -7,6 +7,8 @@
 </a>
  <hr />
 <br>
+                                        
+                                        
 I am [Miguel Cardoso](https://tekaichi.github.io/), and I enjoy building stuff and researching AI. I have a particular interest in Geometric Deep Learning (I do like my graphs and manifolds..), Healthcare applications and Physics.
                                        
 I have built warehouse management systems, developed data pipelines, implemented state-of-the-art deep learning models and developed new ones while working closely with end-users whenever possible.
