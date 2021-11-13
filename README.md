@@ -34,11 +34,11 @@ At the moment I am working in [vohcolab](www.vohcolab.org) as a Research Enginee
                                         
 <!--START_SECTION:waka-->
 ```text
-Other    31 hrs 2 mins   █████████████░░░░░░░░░░░░   51.96 % 
-C#       15 hrs 29 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.94 % 
-TeX      4 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Blazor   3 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-SQL      2 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Other    33 hrs 49 mins  █████████████▓░░░░░░░░░░░   55.01 % 
+C#       12 hrs 52 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.95 % 
+TeX      4 hrs 56 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+SQL      3 hrs 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Blazor   3 hrs 37 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 ```
 <!--END_SECTION:waka-->
                                         
