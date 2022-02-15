@@ -28,6 +28,8 @@
                                         
 <!--START_SECTION:waka-->
 ```text
+Total: 21 hrs 33 mins
+
 C#           11 hrs 14 mins  ████████████▒░░░░░░░░░░░░   49.51 % 
 Blazor       4 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.89 % 
 JavaScript   1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
