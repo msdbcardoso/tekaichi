@@ -1,9 +1,6 @@
 ### Hi there 👋
-<a href="https://twitter.com/msd.cardoso">
-  <img align="left" alt="Miguel Cardoso" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/miguel-sd-cardoso//">
-  <img align="left" alt="Miguel Cardoso's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/miguel-sd-cardoso/">
+  <img align="left" alt="Miguel Cardoso's LinkedIN" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />
 </a>
  <hr />
 <br>
