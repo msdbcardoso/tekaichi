@@ -26,11 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#         2 hrs 37 mins   ███████████████▒░░░░░░░░░   61.19 %
-Razor      1 hr 17 mins    ███████▓░░░░░░░░░░░░░░░░░   30.11 %
-Text       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Binary     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
