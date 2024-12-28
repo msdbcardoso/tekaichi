@@ -26,11 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#           2 hrs 33 mins   ████████████████░░░░░░░░░   64.46 %
-JavaScript   57 mins         ██████░░░░░░░░░░░░░░░░░░░   24.16 %
-Razor        11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Markdown     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
