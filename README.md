@@ -26,10 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   34 mins         ███████████████▓░░░░░░░░░   62.88 %
-C#       14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
-JSON     5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Razor    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
