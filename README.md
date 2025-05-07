@@ -26,8 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#      11 mins         ████████████████████████░   95.40 %
-Razor   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
